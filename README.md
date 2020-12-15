@@ -19,7 +19,7 @@ Remove remote and add your own
 
 ```
 $ git remote remove origin
-$ git
+$ git remote add origin your_repo_origin_goes_here
 ```
 
 Then you can change the contents of `App.tsx` and add your own components
